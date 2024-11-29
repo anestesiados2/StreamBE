@@ -1,0 +1,29 @@
+.container {
+    width: 300px;
+    margin: 50px auto; 
+    display: flex;
+    justify-content: space-between;
+}
+.salchicha {
+    background-color: #FF5733;
+    width: 100px;
+    height: 500px; 
+    border-radius: 50px;
+    margin: 0px auto;
+}
+.panizq {
+    width: 90px;
+    height: 500px;
+    background-color: #FFD700;
+    border: 5px solid #CD853F; 
+    border-radius: 30px;
+    margin: 0px auto;
+}
+.pander {
+    width: 90px;
+    height: 500px;
+    background-color: #FFD700;
+    border: 5px solid #CD853F; 
+    border-radius: 30px;
+    margin: 0px auto;
+}
